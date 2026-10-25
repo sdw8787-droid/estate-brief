@@ -31,11 +31,11 @@ if __name__=='__main__':
  for a in items: unique.setdefault(re.sub(r'\W','',a['title']).casefold(),a)
  items=sorted(unique.values(),key=lambda a:a['publishedAt'],reverse=True)
  fallback=json.loads((ROOT/'briefing.json').read_text())
- if len(items)<5:
-  for a in fallback['highlights']:
+ if len(items)<10:
+  for a in fallback['highlights']+fallback['additional']:
    if a['id'] not in {x['id'] for x in items}:
     a=dict(a);a['summary']='[이전 참고자료] '+a['summary'];items.append(a)
-   if len(items)>=5:break
+   if len(items)>=10:break
  if len(items)<5:raise SystemExit('Fewer than 5 verified items; retaining previous briefing')
  # 국내/해외 각각 적어도 1개. 나머지는 최신순으로 채운다.
  main=[]
