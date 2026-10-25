@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-25",
+  "updatedAt": "2026-10-25T04:12:53Z",
+  "edition": "초기 리서치 브리핑",
+  "intro": "국내는 자산별 수익률 재조정, 해외는 선별적인 회복. 오늘은 임대 현금흐름과 차입 비용의 간격을 살펴보세요.",
+  "highlights": [
+    {
+      "id": "cbre-q3-2026",
+      "title": "서울 상업용 부동산, 누적 투자 25조원\n오피스·물류 수익률 상승 전환",
+      "summary": "CBRE에 따르면 3분기 거래 규모는 9조 6,488억원, 오피스 비중은 73%입니다. A급 오피스와 물류 수익률은 각각 4.3%, 5.4%로 상승 전환했습니다.",
+      "implication": "투자 검토 시 최근 거래 수익률과 차입 조건을 함께 점검할 시점입니다.",
+      "source": "CBRE Korea",
+      "publishedAt": "2026-10-19",
+      "region": "국내",
+      "sector": "오피스",
+      "type": "보고서",
+      "url": "https://www.cbrekorea.com/insights/figures/seoul-figures-q3-2026-%EA%B5%AD%EB%AC%B8-"
+    },
+    {
+      "id": "metlife-h2-2026",
+      "title": "미국 CRE, 공급 감소가\n임대수익 회복을 뒷받침",
+      "summary": "MetLife IM은 신규 공급 축소가 향후 2년의 수익 증가를 지원할 것으로 전망합니다. 다만 금리 상승은 단기 자본시장 활동의 부담으로 지목했습니다.",
+      "implication": "리파이낸싱 비용과 자산별 임대수익 성장 가정을 나눠 검토하세요.",
+      "source": "MetLife IM",
+      "publishedAt": "2026-10",
+      "region": "해외",
+      "sector": "복합",
+      "type": "보고서",
+      "url": "https://www.metlife.com/investments/global/insights/outlooks-and-market-updates/us-commercial-real-estate-chartbook-h2-2026/"
+    },
+    {
+      "id": "nar-oct-2026",
+      "title": "미국 오피스 안정화 흐름,\n등급별 격차는 여전",
+      "summary": "NAR 10월 보고서는 8월 기준 오피스의 순흡수 개선과 공실률 하락을 전합니다. A급 임차 수요가 회복을 주도하지만 B·C급은 여전히 부담이 남아 있습니다.",
+      "implication": "시장 평균보다 자산 등급과 실제 임차인 이동을 확인하세요.",
+      "source": "NAR",
+      "publishedAt": "2026-10",
+      "region": "해외",
+      "sector": "오피스",
+      "type": "보고서",
+      "url": "https://www.nar.realtor/commercial-real-estate-market-insights/october-2026-commercial-real-estate-market-insights-report"
+    },
+    {
+      "id": "jll-global-aug",
+      "title": "글로벌 투자 거래 회복,\n아시아태평양이 성장 견인",
+      "summary": "JLL은 2분기 글로벌 직접투자가 전년 대비 28%, 아시아태평양은 38% 증가했다고 집계했습니다. 일본·호주가 유동성을 이끌었습니다.",
+      "implication": "해외 투자 파이프라인의 지역별 가격 회복 속도를 비교하세요.",
+      "source": "JLL Research",
+      "publishedAt": "2026-08-03",
+      "region": "해외",
+      "sector": "복합",
+      "type": "보고서",
+      "url": "https://www.jll.com/en-us/insights/market-perspectives/global"
+    },
+    {
+      "id": "savills-2026",
+      "title": "Savills, 올해 글로벌 투자\n1.2조 달러 전망",
+      "summary": "Savills는 상반기 약 5,000억 달러가 투자됐으며 연간 거래 규모가 전년 대비 14% 늘어날 것으로 전망했습니다. 전망치는 실제 확정 실적과 구분해 볼 필요가 있습니다.",
+      "implication": "회복 전망을 참고하되 개별 자산의 현금흐름을 우선 확인하세요.",
+      "source": "Savills Research",
+      "publishedAt": "2026-08",
+      "region": "해외",
+      "sector": "복합",
+      "type": "보고서",
+      "url": "https://impacts.savills.com/market-trends/global-real-estate-investment-recovery-continues-in-2026.html"
+    }
+  ],
+  "additional": [
+    {
+      "id": "reb-q3",
+      "title": "한국부동산원, 3분기 오피스텔 가격동향조사 발표",
+      "summary": "오피스텔 투자·운용 자산의 지역별 가격 흐름을 확인할 수 있는 공식 통계입니다.",
+      "source": "한국부동산원",
+      "publishedAt": "2026-10-15",
+      "region": "국내",
+      "sector": "리빙",
+      "type": "보도자료",
+      "url": "https://www.reb.or.kr/reb/na/ntt/selectNttInfo.do?bbsId=1154&mi=9565&nttSn=117826"
+    },
+    {
+      "id": "cbre-dc",
+      "title": "한국 데이터센터 투자, 전력과 가용 부지가 핵심 변수",
+      "summary": "CBRE는 AI 수요 확대와 수도권 공급 제약을 함께 분석하고 잠재 매수 주체별 진입 조건을 다룹니다.",
+      "source": "CBRE Korea",
+      "publishedAt": "2026-07-12",
+      "region": "국내",
+      "sector": "데이터센터",
+      "type": "보고서",
+      "url": "https://www.cbrekorea.com/insights/reports/%ED%95%9C%EA%B5%AD-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%ED%88%AC%EC%9E%90"
+    },
+    {
+      "id": "cbre-intentions",
+      "title": "국내 투자자 83%, 투자 비중 확대 의향",
+      "summary": "차입 여건 개선과 가격 합리화가 전제된 조건부 투자 의향으로 해석할 필요가 있습니다.",
+      "source": "CBRE Korea",
+      "publishedAt": "2026-03-17",
+      "region": "국내",
+      "sector": "복합",
+      "type": "보고서",
+      "url": "https://www.cbrekorea.com/insights/reports/2026-%ED%95%9C%EA%B5%AD-%ED%88%AC%EC%9E%90%EC%9E%90-%EC%9D%98%ED%96%A5-%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC"
+    },
+    {
+      "id": "hines-outlook",
+      "title": "Hines 2026 전망, 리빙과 새로운 산업 수요에 주목",
+      "summary": "일률적인 반등보다 지역·섹터별로 나타나는 점진적 회복과 운용 역량을 강조합니다.",
+      "source": "Hines",
+      "publishedAt": "2026",
+      "region": "해외",
+      "sector": "리빙",
+      "type": "보고서",
+      "url": "https://www.hines.com/2026-global-investment-outlook"
+    },
+    {
+      "id": "inrev-intentions",
+      "title": "INREV 투자 의향 조사, 부동산 배분 목표 점검",
+      "summary": "글로벌 평균 실제 부동산 배분은 12.4%, 목표 배분은 12.5%로 조사됐습니다.",
+      "source": "INREV",
+      "publishedAt": "2026-01-14",
+      "region": "해외",
+      "sector": "복합",
+      "type": "보고서",
+      "url": "https://www.inrev.org/research/investment-intentions-survey"
+    }
+  ]
+}
