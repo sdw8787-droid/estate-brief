@@ -24,12 +24,11 @@ jobs:
         with:
           python-version: '3.12'
       - name: Collect public real estate RSS
-        if: github.event_name != 'push'
         run: python collect.py
       - name: Prepare public site
         run: |
           mkdir -p public
-          cp index.html briefing.json public/
+          cp index.html briefing.json share-card.png public/
           touch public/.nojekyll
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
